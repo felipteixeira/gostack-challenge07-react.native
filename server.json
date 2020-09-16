@@ -1,27 +1,27 @@
 {
   "products": [
     {
-      "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "id": "01",
+      "title": "RAT ATTACK",
+      "image_url": "https://static.wixstatic.com/media/500f2e_50476589ec084d0b9060e25488393960~mv2.jpg",
+      "price": 90
     },
     {
-      "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "id": "02",
+      "title": "THUG SQUIDWARD",
+      "image_url": "https://static.wixstatic.com/media/500f2e_432d48606fd949d6b3a2fcab42c75451~mv2.jpg",
+      "price": 80
     },
     {
-      "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "id": "03",
+      "title": "SNAFU",
+      "image_url": "https://static.wixstatic.com/media/500f2e_a1a3f0270b644713bdeac58d961563b0~mv2.jpg",
+      "price": 90
     },
     {
-      "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "id": "04",
+      "title": "BASIC LOGO",
+      "image_url": "https://static.wixstatic.com/media/500f2e_9810b1abb13f4bd7aebd6f206d8292ee~mv2.png",
       "price": 80
     }
   ]
